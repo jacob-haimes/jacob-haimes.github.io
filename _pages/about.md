@@ -18,15 +18,15 @@ In addition to my professional credentials, I am an avid enjoyer of games of all
 
 ### Favorites Lists:
 
-**Musical Artists:**
-- [Streetlight Manifesto](https://www.streetlightmanifesto.com/)
-- [Vampire Weekend](https://www.vampireweekend.com/)
-- [King Gizzard and the Lizard Wizard](https://kinggizzardandthelizardwizard.com/)
+Musical Artists
+: [Streetlight Manifesto](https://www.streetlightmanifesto.com/)
+: [Vampire Weekend](https://www.vampireweekend.com/)
+: [King Gizzard and the Lizard Wizard](https://kinggizzardandthelizardwizard.com/)
 
-**Tabletop Role-Playing Games:** 
-- [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel)
-- [Lancer](https://massifpress.com/)
-- [Dungeons & Dragons (5e)](https://dnd.wizards.com/)
+Tabletop Role-Playing Games:
+: [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel)
+: [Lancer](https://massifpress.com/)
+: [Dungeons & Dragons (5e)](https://dnd.wizards.com/)
 
 **Board/Card Games:**
 - [SmashUp](https://alderacstore.com/smash-up/)
