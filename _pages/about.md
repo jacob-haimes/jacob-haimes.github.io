@@ -15,8 +15,11 @@ In addition to my professional credentials, I am an avid enjoyer of games of all
 ### Favorites lists:
 
 **Musical Artists:** [Streetlight Manifesto](https://www.streetlightmanifesto.com/), [Vampire Weekend](https://www.vampireweekend.com/), [King Gizzard and the Lizard Wizard](https://kinggizzardandthelizardwizard.com/)
+
 **Tabletop Role-Playing Games:** [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel), [Lancer](https://massifpress.com/), [Dungeons & Dragons (5e)](https://dnd.wizards.com/)
+
 **Board/Card Games:**  [SmashUp](https://alderacstore.com/smash-up/), [Bushido](https://greyfoxgames.com/current-games/bushido/), [Codenames](https://codenamesgame.com/)
+
 **Video games:** [Marvel Snap](https://www.marvelsnap.com/), [Risk of Rain 2](https://www.riskofrain.com/), [Hades](https://www.supergiantgames.com/games/hades/)
 
 Please contact me at [jacob.d.haimes@gmail.com](mailto:jacob.d.haimes@gmail.com) to find out how I might add value to your organization.
