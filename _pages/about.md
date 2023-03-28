@@ -17,11 +17,22 @@ Please contact me at <jacob.d.haimes@gmail.com> to find out how I might add valu
 In addition to my professional credentials, I am an avid enjoyer of games of all kinds. Role-playing games, such as Dungeons and Dragons or the LARP (live action role-play) camp that I grew up attending, [Sword Camp](https://swordcamp.com/). In fact, I loved Sword Camp so much that as soon as I could, I began volunteering as an assistant counselor, which eventually turned into my first job as a camp counselor. During my time as a counselor, I also played a large role in designing, writing, play-testing, and finalizing a major update to the camp's LARP system.
 
 ### Favorites Lists:
+<dl>
+    <dt>Musical Artists</dt>
+    <dd>
+      <ul>
+        <li> [Streetlight Manifesto](https://www.streetlightmanifesto.com/) </li>
+        <li> [Vampire Weekend](https://www.vampireweekend.com/) </li>
+        <li> [King Gizzard and the Lizard Wizard](https://kinggizzardandthelizardwizard.com/) </li>
+      </ul>
+    </dd>
+  
+    <dt>Morgawr</dt>
+    <dd>A sea serpent.</dd>
 
-Musical Artists
-: [Streetlight Manifesto](https://www.streetlightmanifesto.com/)
-: [Vampire Weekend](https://www.vampireweekend.com/)
-: [King Gizzard and the Lizard Wizard](https://kinggizzardandthelizardwizard.com/)
+    <dt>Owlman</dt>
+    <dd>A giant owl-like creature.</dd>
+</dl>
 
 Tabletop Role-Playing Games:
 : [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel)
