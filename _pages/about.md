@@ -26,7 +26,6 @@ In addition to my professional credentials, I am an avid enjoyer of games of all
         <li> <a href="https://kinggizzardandthelizardwizard.com/">King Gizzard and the Lizard Wizard</a> </li>
       </ul>
     </dd>
-  
     <dt>Tabletop Role-Playing Games</dt>
      <dd>
       <ul>
@@ -35,7 +34,6 @@ In addition to my professional credentials, I am an avid enjoyer of games of all
         <li> <a href="https://dnd.wizards.com/">Dungeons & Dragons (5e)</a> </li>
       </ul>
     </dd>
-
     <dt>Board/Card Games</dt>
      <dd>
       <ul>
@@ -44,7 +42,6 @@ In addition to my professional credentials, I am an avid enjoyer of games of all
         <li> <a href="https://stonemaiergames.com/games/wingspan/">Wingspan</a> </li>
       </ul>
     </dd>
-    
     <dt>Video games</dt>
      <dd>
       <ul>
