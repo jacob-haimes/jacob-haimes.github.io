@@ -21,31 +21,36 @@ In addition to my professional credentials, I am an avid enjoyer of games of all
     <dt>Musical Artists</dt>
     <dd>
       <ul>
-        <li> [Streetlight Manifesto](https://www.streetlightmanifesto.com/) </li>
-        <li> [Vampire Weekend](https://www.vampireweekend.com/) </li>
-        <li> [King Gizzard and the Lizard Wizard](https://kinggizzardandthelizardwizard.com/) </li>
+        <li> <a href="https://www.streetlightmanifesto.com/">Streetlight Manifesto</a> </li>
+          <li> <a href="https://www.vampireweekend.com/">Vampire Weekend</a> </li>
+        <li> <a href="https://kinggizzardandthelizardwizard.com/">King Gizzard and the Lizard Wizard</a> </li>
       </ul>
     </dd>
   
-    <dt>Morgawr</dt>
-    <dd>A sea serpent.</dd>
+    <dt>Tabletop Role-Playing Games</dt>
+     <dd>
+      <ul>
+        <li> <a href="https://bladesinthedark.com/greetings-scoundrel">Blades in the Dark</a> </li>
+          <li> <a href="https://massifpress.com/">Lancer</a> </li>
+        <li> <a href="https://dnd.wizards.com/">Dungeons & Dragons (5e)</a> </li>
+      </ul>
+    </dd>
 
-    <dt>Owlman</dt>
-    <dd>A giant owl-like creature.</dd>
+    <dt>Board/Card Games</dt>
+     <dd>
+      <ul>
+        <li> <a href="https://alderacstore.com/smash-up/">SmashUp</a> </li>
+          <li> <a href="https://greyfoxgames.com/current-games/bushido/">Bushido</a> </li>
+        <li> <a href="https://stonemaiergames.com/games/wingspan/">Wingspan</a> </li>
+      </ul>
+    </dd>
+    
+    <dt>Video games</dt>
+     <dd>
+      <ul>
+        <li> <a href="https://www.marvelsnap.com/">Marvel Snap</a> </li>
+          <li> <a href="https://www.riskofrain.com/">Risk of Rain 2</a> </li>
+        <li> <a href="https://www.supergiantgames.com/games/hades/">Hades</a> </li>
+      </ul>
+    </dd>
 </dl>
-
-Tabletop Role-Playing Games:
-: [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel)
-: [Lancer](https://massifpress.com/)
-: [Dungeons & Dragons (5e)](https://dnd.wizards.com/)
-
-**Board/Card Games:**
-- [SmashUp](https://alderacstore.com/smash-up/)
-- [Bushido](https://greyfoxgames.com/current-games/bushido/)
-- [Codenames](https://codenamesgame.com/)
-
-**Video games:**
-- [Marvel Snap](https://www.marvelsnap.com/)
-- [Risk of Rain 2](https://www.riskofrain.com/)
-- [Hades](https://www.supergiantgames.com/games/hades/)
-
