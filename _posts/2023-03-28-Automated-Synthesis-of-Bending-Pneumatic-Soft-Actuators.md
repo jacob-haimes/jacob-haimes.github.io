@@ -10,5 +10,7 @@ tags:
 
 While obtaining my Master's Degree, I collaborated closely with the [MACLab](https://www.matterassembly.org/), a lab located at the University of Colorado's Boulder campus which is led by [Dr. Robert MacCurdy](https://www.colorado.edu/mechanical/robert-maccurdy).
 
+
+
 The link to the full paper is provided below:
 - <a href="https://jacob-haimes.github.io/PDFs/Smith-Hainsworth-Haimes-MacCurdy_Automated-Synthesis_ROBOSOFT.pdf" target="_blank" rel="noreferrer noopener">Automated Synthesis of Bending Pneumatic Soft Actuators</a>
