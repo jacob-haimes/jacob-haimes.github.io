@@ -16,4 +16,4 @@ While obtaining my Master's Degree, I collaborated closely with the [MACLab](htt
 The PDF printout above comes from a paper that I had the privelege of working on along with Lawrence Smith and Dr. MacCurdy. "Stretching the Boundary: Shell Finite Elements for Pneumatic Soft Actuators," was published as part of the 2022 IEEE 5th International Conference on Soft Robotics.
 
 The link to the full paper is provided below:
-- <a href="https://jacob-haimes.github.io/PDFs/JacobHaimes_Stretching-the-Boundary.pdf" target="_blank" rel="noreferrer noopener">Stretching the Boundary</a>
+- <a href="https://jacob-haimes.github.io/PDFs/Smith-Haimes-MacCurdy_Shell-Elements_ROBOSOFT.pdf" target="_blank" rel="noreferrer noopener">Stretching the Boundary</a>
