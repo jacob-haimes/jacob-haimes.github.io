@@ -6,7 +6,7 @@ I am a Mechanical and Computer Science Engineering professional with a Master’
 
 In my next role, I anticipate designing, developing, and implementing methods, processes, and systems to analyze diverse data. My contribution will include applying my knowledge of statistics, data analysis, optimization, visualization, and data modeling to integrate and clean data, recognize patterns, address uncertainty, pose questions, and make discoveries from structured and/or unstructured data. 
 
-I’m looking forward to collaborating with like colleagues to produce solutions driven by exploratory data analysis from complex and high-dimensional datasets. I am unafraid to experiment and make decisions in a fast-paced environment. Together we will design, develop, and evaluate predictive models and advanced algorithms that lead to optimal value extraction from the data and lead to better business decisions.
+I enjoy collaborating with like colleagues to produce solutions driven by exploratory data analysis from complex and high-dimensional datasets. I am unafraid to experiment and make decisions in a fast-paced environment. Together we will design, develop, and evaluate predictive models and advanced algorithms that lead to optimal value extraction from the data and lead to better business decisions.
 
 I’m looking forward to making a significant contribution to any of the following industries: Renewable Energy, Medical Research, Biotech, Game Designs, MEMS, Engineering and Technology Consulting.
 
