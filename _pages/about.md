@@ -10,7 +10,7 @@ I enjoy collaborating with like colleagues to produce solutions driven by explor
 
 I’m looking forward to making a significant contribution to any of the following industries: Renewable Energy, Medical Research, Biotech, Game Designs, MEMS, Engineering and Technology Consulting.
 
-[Current Resume](https://jacob-haimes.github.io/PDFs/Jacob-Haimes_Resume_GitHub)
+[Current Resume](https://jacob-haimes.github.io/PDFs/Jacob-Haimes_Resume_GitHub.pdf)
 
 Please contact me at <jacob.d.haimes@gmail.com> to find out how I might add value to your organization.
 
