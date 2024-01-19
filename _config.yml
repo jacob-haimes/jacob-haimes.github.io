@@ -16,7 +16,8 @@
 title: "Jacob Haimes' Portfolio"
 email: jacob.d.haimes@gmail.com
 description: "Professional portfolio of Jacob Haimes."
-url : "https://jacob-haimes.github.io"
+url: "https://jacob-haimes.github.io"
+baseurl: "/home"
 
 # twitter_username: username
 github_username: jacob-haimes
