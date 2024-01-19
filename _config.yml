@@ -34,8 +34,16 @@ paginate_path: /page:num/
 timezone: America/Denver
 
 include:
+  - .htaccess
   - _pages
+encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
