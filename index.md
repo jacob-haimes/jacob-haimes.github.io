@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /home/
+permalink: /
 title: "Home"
 header: true
   overlay_color: "#ffffff"
@@ -8,8 +8,7 @@ header: true
   actions:
     - label: "<i class='fas fa-newspaper-o'></i> Test"
       url: "/"
-excerpt: >
-  Aspiring towards a career in scientific communication and research regarding transformative technologies.
+excerpt: "Aspiring towards a career in scientific communication and research regarding transformative technologies."
 feature_row:
   - image_path: /assets/images/f2.png
     alt: "stretch"
