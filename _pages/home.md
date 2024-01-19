@@ -1,12 +1,12 @@
 ---
 layout: splash
 permalink: /
-header:
+header: true
   overlay_color: "#ffffff"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-#   actions:
-#     - label: "<i class='fas fa-newspaper-o'></i> "
-#       url: "/docs/quick-start-guide/"
+  actions:
+    - label: "<i class='fas fa-newspaper-o'></i> Test"
+      url: "/"
 excerpt: >
   Aspiring towards a career in scientific communication and research regarding transformative technologies.
 feature_row:
