@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+canonical_url: "https://jacob-haimes.github.io/"
 title: "Home"
 header: true
   overlay_color: "#ffffff"
