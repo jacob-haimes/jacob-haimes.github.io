@@ -13,5 +13,5 @@ While obtaining my Master's Degree, I collaborated closely with the [MACLab](htt
 
 ![plot from Automated Synthesis of Bending Pneumatic Soft Actuators](https://jacob-haimes.github.io/assets/images/automated-synthesis-plot.png)
 
-The plot above is from "Automated Synthesis of Bending Pneumatic Soft Actuators," which was a conference paper in the 2022 IEEE 5th International Conference on Soft Robotics that I workd on alongside Lawrence Smith, Travis Hainsworth, and Dr. MacCurdy. The link to the full paper is provided below:
+The plot above is from "Automated Synthesis of Bending Pneumatic Soft Actuators," which was a conference paper in the 2022 IEEE 5th International Conference on Soft Robotics that I worked on alongside Lawrence Smith, Travis Hainsworth, and Dr. MacCurdy. The link to the full paper is provided below:
 - <a href="https://jacob-haimes.github.io/PDFs/Smith-Hainsworth-Haimes-MacCurdy_Automated-Synthesis_ROBOSOFT.pdf" target="_blank" rel="noreferrer noopener">Automated Synthesis of Bending Pneumatic Soft Actuators</a>
