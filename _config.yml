@@ -33,7 +33,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - ["_pages"]
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -54,6 +54,13 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
   - jekyll-include-cache
 
 author:
