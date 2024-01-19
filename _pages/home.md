@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /test/
 header: true
   overlay_color: "#ffffff"
   overlay_image: /assets/images/mm-home-page-feature.jpg
