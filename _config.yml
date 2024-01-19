@@ -16,8 +16,8 @@
 title: "Jacob Haimes' Portfolio"
 email: jacob.d.haimes@gmail.com
 description: "Professional portfolio of Jacob Haimes."
-url: "https://jacob-haimes.github.io"
-baseurl: "/"
+# url: "https://jacob-haimes.github.io"
+# baseurl: "/"
 
 # twitter_username: username
 github_username: jacob-haimes
@@ -112,16 +112,16 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  # - scope:
+  #     path: "_pages"
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
 
 category_archive:
   type: liquid
