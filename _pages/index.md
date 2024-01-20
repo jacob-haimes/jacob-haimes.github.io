@@ -1,7 +1,8 @@
 ---
 layout: splash
 permalink: "/"
-header: true
+hidden: true
+header:
   overlay_color: "#ffffff"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
