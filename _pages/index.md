@@ -4,7 +4,7 @@ permalink: "/"
 hidden: true
 header:
   overlay_color: "#909090"
-  overlay_image: /assets/images/jacob-haimes-banner-1.png
+  overlay_image: /assets/images/jacob-haimes-banner-2.png
   actions:
     - label: "<i class='fas fa-newspaper-o'></i> Test"
       url: "/"
