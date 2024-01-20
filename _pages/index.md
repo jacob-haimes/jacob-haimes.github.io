@@ -3,8 +3,8 @@ layout: splash
 permalink: "/"
 hidden: true
 header:
-  overlay_color: "#606060"
-  overlay_image: /assets/images/jacob-haimes-banner-6.5.png
+  # overlay_color: "#606060"
+  overlay_image: /assets/images/jacob-haimes-banner-6.5L-min.jpeg
   # actions:
   #   - label: "<i class='fas fa-cubes'></i> Test"
   #     url: "/"
