@@ -4,10 +4,10 @@ permalink: "/"
 hidden: true
 header:
   # overlay_color: "#606060"
-  overlay_image: /assets/images/jacob-haimes-banner-6.5L-min.jpeg
+  overlay_image: /assets/images/jacob-haimes-banner-6.5L-min-2.jpeg
   actions:
     - label: "<i class='fas fa-book'></i> My work"
-      url: "/"
+      url: "/most-recent/"
 excerpt: "Aspiring towards a career in scientific communication and research regarding transformative technologies."
 feature_row:
   - image_path: /assets/images/f2-min.jpeg
