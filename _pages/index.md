@@ -6,7 +6,7 @@ header:
   overlay_color: "#606060"
   overlay_image: /assets/images/jacob-haimes-banner-6.png
   actions:
-    - label: "<i class='fas fa-newspaper-o'></i> Test"
+    - label: "<i class='fas fa-cubes'></i> Test"
       url: "/"
 excerpt: "Aspiring towards a career in scientific communication and research regarding transformative technologies."
 feature_row:
