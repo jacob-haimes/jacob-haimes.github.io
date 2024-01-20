@@ -5,23 +5,23 @@ hidden: true
 header:
   # overlay_color: "#606060"
   overlay_image: /assets/images/jacob-haimes-banner-6.5L-min.jpeg
-  # actions:
-  #   - label: "<i class='fas fa-cubes'></i> Test"
-  #     url: "/"
+  actions:
+    # - label: "<i class='fas fa-book'></i> Select Publications"
+    #   url: "/"
 excerpt: "Aspiring towards a career in scientific communication and research regarding transformative technologies."
 feature_row:
-  - image_path: /assets/images/f2.png
+  - image_path: /assets/images/f2-min.jpeg
     alt: "stretch"
     title: "Stretching the Boundary"
     excerpt: "Accepted to the IEEE 5th International Conference on Robotics, this paper explores the value of using shell finite elements for soft actuator simulation."
-    url: "maclab/Stretching-the-Boundary/"
+    url: "/maclab/Stretching-the-Boundary/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: assets/images/automated-synthesis-plot.png
+  - image_path: assets/images/actuator-metric-min.jpeg
     alt: "actuators"
     title: "Actuator Synthesis"
     excerpt: "This project explores automated design and fabrication of bending pneumatic actuators, and was accepted to the IEEE 5th International Conference on Robotics."
-    url: "/docs/layouts/"
+    url: "/maclab/Automated-Synthesis-of-Bending-Pneumatic-Soft-Actuators/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/into-ai-safety_v1_512.png

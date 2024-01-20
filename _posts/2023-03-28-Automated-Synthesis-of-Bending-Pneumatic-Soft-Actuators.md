@@ -4,6 +4,7 @@ date: 2022-05-02T00:00:00-07:00
 categories:
   - MACLab
 tags:
+  - Publication
   - Automation
   - Optimization
   - Simulation and Analysis
