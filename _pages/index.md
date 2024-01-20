@@ -3,7 +3,7 @@ layout: splash
 permalink: "/"
 hidden: true
 header:
-  overlay_color: "#909090"
+  overlay_color: "#606060"
   overlay_image: /assets/images/jacob-haimes-banner-6.png
   actions:
     - label: "<i class='fas fa-newspaper-o'></i> Test"
