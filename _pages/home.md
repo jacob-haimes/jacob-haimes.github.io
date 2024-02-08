@@ -26,7 +26,7 @@ feature_row:
     url: "/PDFs/Smith-Hainsworth-Haimes-MacCurdy_Automated-Synthesis_ROBOSOFT.pdf"
     btn_class: "btn--primary"
     btn_label: "View paper"
-  - image_path: /assets/images/into-ai-safety_v1_512.png
+  - image_path: /assets/images/IAIS-logo_album-cover-min.jpeg
     alt: "into-ai-safety"
     title: "Into AI Safety Podcast"
     excerpt: "My podcast chronicles my career shift towards AI safety with the goal of generating content that can help others do the same."
