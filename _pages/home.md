@@ -8,6 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-book'></i>&nbsp;&nbsp;My work"
       url: "/recent/"
+excerpt: "Aspiring towards a career in research and scientific communication regarding transformative technologies."
 feature_row:
   - image_path: /assets/images/f2-min.jpeg
     alt: "stretch"
