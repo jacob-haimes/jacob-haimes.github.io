@@ -57,7 +57,7 @@ Although we can’t say what it is definitively, because the OSAID isn’t publi
 Mistral’s models are also not open source, but in a slightly more nuanced manner. Instead of releasing all artifacts describing their models, Mistral licensed the model weights using the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license, which meets the requirements for a license to be [Open Source](https://opensource.org/license/apache-2-0). Unfortunately, however, no other artifacts were released. As a result, Mistral’s models can be used as-is by anyone, but the transparency that should go hand-in-hand with Open Source is no longer present.
 
 As a final example, [BLOOMZ](https://huggingface.co/bigscience/bloomz), a model developed by BigScience Workshop is also not Open Source. The model is licensed under the [Responsible AI License (RAIL) License](https://bigscience.huggingface.co/blog/the-bigscience-rail-license),[^5] which does impose some restrictions on the use of the model. While these restrictions are not necessarily a bad thing to have, they do prevent the model from obtaining the official Open Source label.
-Based on the current OSAID, the models Amber and Crystal, developed by [LLM360](https://www.llm360.ai), as well as the very recent OpenELM, developed by Apple Inc. are the _only_ large language models which can be considered Open Source AI.
+Based on the current OSAID, the models Amber and Crystal, developed by [LLM360](https://www.llm360.ai), as well as the very recent [OpenELM](https://arxiv.org/abs/2404.14619), developed by Apple Inc. are the _only_ large language models which can be considered Open Source AI.
 
 <figure>
     <img src="https://jacob-haimes.github.io/assets/images/wrong-hole.jpg"
