@@ -6,7 +6,7 @@ categories:
 tags:
   - Machine Learning
   - AI Safety
-excerpt: Big Tech is attempting to alter the definition of "Open Source" to their advantage; at the very least we should know about it.
+excerpt: Big Tech is attempting to redefine "Open Source" to their advantage; at the very least, we should know about it.
 read_time: true
 ---
 <figure>
