@@ -13,12 +13,12 @@ toc: true
 <figure>
     <img src="https://jacob-haimes.github.io/assets/images/Alan-Warburton_Plant_1280x720.jpg"
          alt="Plant, Alan Warburton">
-    <figcaption style="font-size:small">Image by <a href="https://alanwarburton.co.uk/">Alan Warburton</a> / © BBC / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Plant / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></figcaption>
+    <figcaption style="font-size:small">Image by <a href="https://alanwarburton.co.uk/" target="_blank" rel="noreferrer noopener">Alan Warburton</a> / © BBC / <a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI</a> / Plant / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
 </figure>
 
 ## Brief: What is Open Source
 
-<div style="text-align: justify">As advanced machine learning systems become increasingly widespread, the question of how to make them safe is also gaining attention. Within this debate, the term “open source” is frequently brought up. Some [claim](https://arxiv.org/abs/2311.09227) that open sourcing models will potentially increase the likelihood of societal risks, while others insist that open sourcing is the only way to ensure the development and deployment of these “artificial intelligence,” or “AI,” systems goes well. **Despite this idea of “open source” being a central debate of “AI” governance, only one group has released cutting edge “AI” which can be considered Open Source.**</div>
+As advanced machine learning systems become increasingly widespread, the question of how to make them safe is also gaining attention. Within this debate, the term “open source” is frequently brought up. Some [claim](https://arxiv.org/abs/2311.09227) that open sourcing models will potentially increase the likelihood of societal risks, while others insist that open sourcing is the only way to ensure the development and deployment of these “artificial intelligence,” or “AI,” systems goes well. **Despite this idea of “open source” being a central debate of “AI” governance, only one group has released cutting edge “AI” which can be considered Open Source.**
 
 The term _Open Source_ was first used to describe software in 1998, and was coined by [Christine Peterson](https://opensource.com/article/18/2/coining-term-open-source-software) to describe the principles that would guide the development of the [Netscape](https://en.wikipedia.org/wiki/Netscape) web browser. Soon after, the [Open Source Initiative](https://opensource.org) was founded with the intent to preserve the meaning of Open Source. The group wrote the [Open Source Definition](https://opensource.org/osd) (OSD), and even made an unsuccessful attempt to obtain a trademark for the term.
 
