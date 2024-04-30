@@ -6,6 +6,8 @@ categories:
 tags:
   - Machine Learning
   - AI Safety
+excerpt: Big Tech is attempting to alter the definition of "Open Source" to their advantage; at the very least we should know about it.
+read_time: true
 ---
 <figure>
     <img src="https://jacob-haimes.github.io/assets/images/Alan-Warburton_Plant_1280x720.jpg"
@@ -98,8 +100,7 @@ It is important to note, I am not saying that Shared Weights models are a negati
 
 [^1]:The source code of a program is the file, written in a human-readable coding language, that defines how that program operates. To create an executable file, (aka. a binary file), the source code is compiled into machine code.
 
-[^2]:How I got that number: Epoch says that the largest amount of data used to train a single model is approximately 9 trillion words; they also say that the Common Crawl dataset has 100 trillion words. Wikipedia reports the most recent version of the Common Crawl to be 454 Tebibytes = 464,896 Gigabytes.
-🠖 454 TiB * .09 = 44640.17 GB
+[^2]:How I got that number: Epoch says that the largest amount of data used to train a single model is approximately 9 trillion words; they also say that the Common Crawl dataset has 100 trillion words. Wikipedia reports the most recent version of the Common Crawl to be 454 Tebibytes = 464,896 Gigabytes.<br>🠖 454 TiB * .09 = 44640.17 GB
 
 [^3]:This is also an issue, but it is far less pressing, and more just annoying.
 [^4]:Namely, the license prohibits Llama3’s use by Meta’s competitors, and anyone who might make a significant amount of money off of it.
