@@ -99,6 +99,10 @@ Longer answer: even though we shouldn’t be calling these models Open Source, t
 
 It is important to note, I am not saying that Shared Weights models are a negative net contribution to society. In fact, I think that the release of currently available Shared Weights models has significantly advanced the field of AI safety. This article is _not about the pros and cons of open source_, I will leave that for future work.
 
+## Acknowledgements
+A special thank you to Brian Penny, Dr. Peter Park and Giuseppe Dal Pra for reviewing the article and providing their input.
+
+
 [^1]:The source code of a program is the file, written in a human-readable coding language, that defines how that program operates. To create an executable file, (aka. a binary file), the source code is compiled into machine code.
 
 [^2]:How I got that number: Epoch says that the largest amount of data used to train a single model is approximately 9 trillion words; they also say that the Common Crawl dataset has 100 trillion words. Wikipedia reports the most recent version of the Common Crawl to be 454 Tebibytes = 464,896 Gigabytes.<br>🠖 454 TiB * .09 = 44640.17 GB
