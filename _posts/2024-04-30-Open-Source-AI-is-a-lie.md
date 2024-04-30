@@ -10,8 +10,8 @@ excerpt: Big Tech is attempting to redefine "Open Source" to their advantage; at
 read_time: true
 toc: true
 header:
-image: https://jacob-haimes.github.io/assets/images/Alan-Warburton_Plant_1280x720.jpg
-caption: "Image by <a href="https://alanwarburton.co.uk/">Alan Warburton</a> / © BBC / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Plant / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a>"
+  image: https://jacob-haimes.github.io/assets/images/Alan-Warburton_Plant_1280x720.jpg
+  caption: "Image by <a href="https://alanwarburton.co.uk/">Alan Warburton</a> / © BBC / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Plant / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a>"
 ---
 <!-- <figure>
     <img src="https://jacob-haimes.github.io/assets/images/Alan-Warburton_Plant_1280x720.jpg"
