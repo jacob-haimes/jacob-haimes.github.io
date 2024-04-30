@@ -1,5 +1,5 @@
 ---
-title: """Open Source AI"" is a lie, but it doesn't have to be"
+title: "Open Source AI is a lie, but it doesn't have to be"
 date: 2024-04-30T00:00:00-07:00
 categories:
   - Independent
