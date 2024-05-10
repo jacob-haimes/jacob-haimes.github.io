@@ -103,7 +103,7 @@ Longer answer: even though we shouldn’t be calling these models Open Source, t
 **Closed Source** models – For completeness, we will also explicitly define Closed Source models. These include models referred to as “black box” or “API” access; while people can use the models, the only individuals who can run the model are its owners. Queries can be screened and monitored. Sending queries through the API typically costs money.
 
 <figure>
-    <img src="https://jacob-haimes.github.io/assets/images/open-diagram_2_small.png"
+    <img src="https://jacob-haimes.github.io/assets/images/open-diagram_3_small.png"
          alt="AI Openness Diagram, Jacob Haimes">
     <figcaption style="font-size:small">Original diagram by <a href="https://jacob-haimes.github.io">Jacob Haimes</a> / © Pythonic Media / AI Openness Diagram / CC-BY-SA 4.0 / created using <a href="https://tikz.dev">Tikz</a> and <a href="https://www.gimp.org">GIMP</a></figcaption>
 </figure>
