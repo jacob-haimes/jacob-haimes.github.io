@@ -76,7 +76,7 @@ whitelist:
 
 author:
   name   : "Jacob Haimes"
-  avatar : "/assets/images/jacobHeadshotTeal_small.png"
+  avatar : "/assets/images/jacob-headshot_pythonic_512.png"
   bio    : "Master of Science in Mechanical Engineering with a focus of Computational Modeling, specializing in Optimization and Visualization."
 #   links:
 #     - label: "Website"
