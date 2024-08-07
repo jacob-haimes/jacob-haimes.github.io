@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 381ff3956d1aaaf79f05abd0828558d2782d63cc jacob-haimes <jacob.d.haimes@gmail.com> 1722628887 -0600	commit (initial): Initial commit
+381ff3956d1aaaf79f05abd0828558d2782d63cc 522997c808d6bc9e2b95df51948b5fd4aa877e5e jacob-haimes <jacob.d.haimes@gmail.com> 1722629798 -0600	pull --ff --recurse-submodules --progress origin: Fast-forward
+522997c808d6bc9e2b95df51948b5fd4aa877e5e 522997c808d6bc9e2b95df51948b5fd4aa877e5e jacob-haimes <jacob.d.haimes@gmail.com> 1722629806 -0600	checkout: moving from main to dev
+522997c808d6bc9e2b95df51948b5fd4aa877e5e 1d791d5ac7f2810e91eeac40b2a3a5fb595aa25d jacob-haimes <jacob.d.haimes@gmail.com> 1722655122 -0600	commit: commit
+1d791d5ac7f2810e91eeac40b2a3a5fb595aa25d 1d791d5ac7f2810e91eeac40b2a3a5fb595aa25d jacob-haimes <jacob.d.haimes@gmail.com> 1722660213 -0600	reset: moving to HEAD
+1d791d5ac7f2810e91eeac40b2a3a5fb595aa25d 522997c808d6bc9e2b95df51948b5fd4aa877e5e jacob-haimes <jacob.d.haimes@gmail.com> 1722660214 -0600	checkout: moving from dev to main
+522997c808d6bc9e2b95df51948b5fd4aa877e5e 522997c808d6bc9e2b95df51948b5fd4aa877e5e jacob-haimes <jacob.d.haimes@gmail.com> 1722660227 -0600	checkout: moving from main to dev2
+522997c808d6bc9e2b95df51948b5fd4aa877e5e 522997c808d6bc9e2b95df51948b5fd4aa877e5e jacob-haimes <jacob.d.haimes@gmail.com> 1722660594 -0600	reset: moving to HEAD
+522997c808d6bc9e2b95df51948b5fd4aa877e5e 1d791d5ac7f2810e91eeac40b2a3a5fb595aa25d jacob-haimes <jacob.d.haimes@gmail.com> 1722660595 -0600	checkout: moving from dev2 to dev
+1d791d5ac7f2810e91eeac40b2a3a5fb595aa25d 1d791d5ac7f2810e91eeac40b2a3a5fb595aa25d jacob-haimes <jacob.d.haimes@gmail.com> 1722661958 -0600	reset: moving to HEAD
+1d791d5ac7f2810e91eeac40b2a3a5fb595aa25d 522997c808d6bc9e2b95df51948b5fd4aa877e5e jacob-haimes <jacob.d.haimes@gmail.com> 1722661958 -0600	checkout: moving from dev to dev2
+522997c808d6bc9e2b95df51948b5fd4aa877e5e 89fedc35902935ccaff218703cf07fab08c82c10 jacob-haimes <jacob.d.haimes@gmail.com> 1722665451 -0600	commit: 2024.08.03 back 2 square 2
+89fedc35902935ccaff218703cf07fab08c82c10 e08618ed1d906b81f140c89e0613832014ea7e02 jacob-haimes <jacob.d.haimes@gmail.com> 1722745605 -0600	commit: add owm
+e08618ed1d906b81f140c89e0613832014ea7e02 d45ba3b733123644776bf9332321e8187b5ca7ea jacob-haimes <jacob.d.haimes@gmail.com> 1722748442 -0600	commit: update grids
+d45ba3b733123644776bf9332321e8187b5ca7ea def81d1f376951680bf1bb70480add8336792286 jacob-haimes <jacob.d.haimes@gmail.com> 1722752288 -0600	commit: more updates
+def81d1f376951680bf1bb70480add8336792286 c5e6792fcdfc1a6dc703acdab740a20393c45008 jacob-haimes <jacob.d.haimes@gmail.com> 1722900320 -0600	commit: rmv some images and update structure
+c5e6792fcdfc1a6dc703acdab740a20393c45008 9840ec452d32ce17d8216fd391b4c8f2cd972354 jacob-haimes <jacob.d.haimes@gmail.com> 1723072451 -0600	commit: update posts view

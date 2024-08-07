@@ -1,0 +1,24 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[lfs]
+	repositoryformatversion = 0
+[remote "origin"]
+	url = https://github.com/jacob-haimes/media-site-dev.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+	vscode-merge-base = origin/main
+[branch "dev"]
+	remote = origin
+	merge = refs/heads/dev
+	vscode-merge-base = origin/main
+[branch "dev2"]
+	remote = origin
+	merge = refs/heads/dev2
+	vscode-merge-base = origin/main

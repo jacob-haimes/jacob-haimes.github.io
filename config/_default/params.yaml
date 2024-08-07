@@ -1,0 +1,74 @@
+# SITE SETUP
+
+# Appearance
+appearance:
+  mode: system
+  color: indigo
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: "Professional portfolio of Jacob Haimes."
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
+    logo:
+      # text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.png"
+    # button:
+    #   enable: true
+    #   text: "Get Tickets"
+    #   url: "https://www.eventbrite.com/"
+    # show_search: true
+    show_theme_chooser: false
+
+# Site footer
+footer:
+  block: minimal
+  copyright:
+    notice: '© {year} Jacob Haimes. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: true
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+# Site features
+features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: github-dark
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: ''
+    content_dir: posts
+    branch: main
+
+i_am_a_sponsor: true
