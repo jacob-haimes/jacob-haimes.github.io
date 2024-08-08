@@ -18,25 +18,29 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Co-Founder and Podcast Host
+role: 
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-  # - name: GenCoin
-    # url: https://www.example.com/
+organizations:
+  - name: Apart Research
+    url: https://www.apartresearch.com
+  - name: Odyssean Institute
+    url: https://www.odysseaninstitute.org
+  - name: Into AI Safety Podcast
+    url: https://into-ai-safety.github.io
 
-user_groups:
-  - Co-Founders
+# user_groups:
+#   - buh
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: custom/globe
-    url: https://jacob-haimes.github.io
-    label: Portfolio
-  - icon: custom/cal
-    url: https://cal.com/jacobhaimes
-    label: Schedule a call
+  # - icon: custom/globe
+  #   url: https://jacob-haimes.github.io
+  #   label: Portfolio
+  # - icon: custom/cal
+  #   url: https://cal.com/jacobhaimes
+  #   label: Schedule a call
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jacob-haimes/
     label: LinkedIn
@@ -46,9 +50,9 @@ profiles:
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=F2BtIR0AAAAJ&hl=en&oi=sra
     label: Google Scholar
-  - icon: academicons/semantic-scholar
-    url: https://www.semanticscholar.org/author/Jacob-Haimes/2163781843
-    label: Semantic Scholar
+  # - icon: academicons/semantic-scholar
+  #   url: https://www.semanticscholar.org/author/Jacob-Haimes/2163781843
+  #   label: Semantic Scholar
   - icon: at-symbol
     url: 'mailto:jacob.d.haimes@gmail.com'
     label: E-mail me
@@ -209,6 +213,6 @@ awards:
 #         margin: [0, 0, 0, 0]
 ---
 
-<div style="text-align: justify">Technological developments today are going to have massive repercussions on both the near and long-term future; everyone has a right to be part of the conversations surrounding them.</div>
+<!-- <div style="text-align: justify">Technological developments today are going to have massive repercussions on both the near and long-term future; everyone has a right to be part of the conversations surrounding them.</div> -->
 
 

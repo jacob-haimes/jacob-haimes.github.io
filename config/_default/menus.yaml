@@ -4,11 +4,11 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Landing
+  - name: Home
     pageRef: /
     weight: 10
   - name: My Work
-    pageRef: all/
+    pageRef: work/
     weight: 20
   - name: About
     pageRef: about/

@@ -3,7 +3,7 @@
 # Appearance
 appearance:
   mode: system
-  color: indigo
+  color: purple
 
 # SEO
 marketing:
@@ -68,7 +68,7 @@ features:
     enable: false
   repository:
     url: ''
-    content_dir: posts
+    content_dir: content
     branch: main
 
 i_am_a_sponsor: true
