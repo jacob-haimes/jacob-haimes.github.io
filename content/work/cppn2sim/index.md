@@ -25,7 +25,7 @@ image:
   preview_only: true
   filename: f10-min.jpeg
 
-url_code: 'https://github.com/MacCurdyLab/CPPN2sim'
+url_code: https://github.com/MacCurdyLab/CPPN2sim
 ---
 
 While obtaining my Master's Degree, I collaborated closely with the [MACLab](https://www.matterassembly.org/), a lab located at the University of Colorado's Boulder campus which is led by [Dr. Robert MacCurdy](https://www.colorado.edu/mechanical/robert-maccurdy).

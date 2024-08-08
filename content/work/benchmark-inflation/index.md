@@ -77,7 +77,7 @@ We conduct an inflation assessment of 20 Open Release and Closed Source models o
 </div>
 
 <figure>
-    <img src="benchmark-inflation_misconceptions_inverted.svg"
+    <img class="w-full" src="benchmark-inflation_misconceptions_inverted.svg"
          alt="Benchmark Inflation Figure 4 - TruthfulQA Misconceptions Inflation Rank | Haimes, Wenner, et al.">
     <figcaption style="text-align:center; font-size:small">Figure 4: Contemporary models, ordered by their TruthfulQA Misconceptions inflation rank. Models are grouped by color according to their respective developers. Uncertainty is shown with both single sigma error bars and p-values; models with p-value less than .05 are marked with an *.</figcaption>
 </figure>
@@ -95,8 +95,8 @@ We design four tests which a proposed retro-holdout is tested against:
 </div>
 
 <figure>
-    <img src="benchmark-inflation_fig-1_large.png"
-         alt="Benchmark Inflation Figure 1 - Diagram | Haimes, Wenner, et al.">
+    <img class="w-full" src="benchmark-inflation_fig-1.svg"
+         alt="Benchmark Inflation Figure 1 - Diagram | Haimes, Wenner, et al." width="full">
     <figcaption style="text-align:center; font-size:small">Figure 1: Diagram of the methodology for creating a retro-holdout dataset, and leveraging it to assess benchmark inflation in contemporary models.</figcaption>
 </figure>
 
@@ -117,12 +117,12 @@ To aid in the construction and iteration of the retro-holdout, we also introduce
 
 <div class="grid grid-cols-1 items-start md:items-center gap-x-8 gap-y-8 sm:gap-y-16 md:grid-cols-2">
 <div><figure>
-    <img src="prerelease-diag_misconceptions.svg"
+    <img class="w-full" src="prerelease-diag_misconceptions.svg"
          alt="Benchmark Inflation Figure 2 - Prerelease Model Accuracy on Retro-TruthfulQA Misconceptions vs. TruthfulQA Misconceptions | Haimes, Wenner, et al.">
     <figcaption style="text-align:center; font-size:small">Figure 2: Results of the difficulty distribution test. All models used were trained prior to the release of the original TruthfulQA benchmark. Note that the all entries fall within the 95% confidence band.</figcaption>
 </figure></div>
 <div><figure>
-    <img src="eval-diag_misconceptions.svg"
+    <img class="w-full" src="eval-diag_misconceptions.svg"
          alt="Benchmark Inflation Figure 3 - Model Accuracy on Retro-TruthfulQA Misconceptions vs. TruthfulQA Misconceptions | Haimes, Wenner, et al.">
     <figcaption style="text-align:center; font-size:small">Figure 3: Contemporary model accuracy on Retro-TruthfulQA Misconceptions vs. TruthfulQA Misconceptions Non-Adversarial. </figcaption>
 </figure></div>

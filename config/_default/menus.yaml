@@ -10,8 +10,8 @@ main:
   - name: My Work
     pageRef: work/
     weight: 20
-  - name: About
-    pageRef: about/
+  - name: Experience
+    pageRef: experience/
     weight: 30
   # - name: Tags
   #   pageRef: tags/

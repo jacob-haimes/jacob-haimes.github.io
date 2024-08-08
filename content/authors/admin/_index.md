@@ -14,8 +14,7 @@ last_name: Haimes
 status:
   icon: 🎲
 
-# Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position/tagline
 role: 
@@ -60,7 +59,7 @@ profiles:
 education:
   - area: Master's of Science in Computational Modeling
     institution: University of Colorado, Boulder
-    date_start: 2021-16-22
+    date_start: 2021-06-22
     date_end: 2022-05-05
     summary: |
       GPA: 3.93
@@ -90,23 +89,23 @@ education:
       - Fluid Mechanics
       - Algorithms
 work:
-  - position: Co-Founder
-    company_name: Pythonic Media
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-03-22
-    date_end: ''
-    summary: |
-      summary
-  - position: Host
+  # - position: Co-Founder
+  #   company_name: Pythonic Media
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2023-03-22
+  #   date_end: ''
+  #   summary: |
+  #     summary
+  - position: Founder and Host
     company_name: Into AI Safety Podcast
     company_url: ''
     company_logo: ''
-    date_start: 2024-10-21
+    date_start: 2023-10-21
     date_end: ''
     summary: |
       summary
-  - position: Media and Research Management Contractor
+  - position: Media and Research Management Assistant
     company_name: Apart Research
     company_url: 'https://www.apartresearch.com'
     company_logo: ''
@@ -184,8 +183,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 3
+  # - name: Spanish
+  #   percent: 3
 
 # Awards.
 #   Add/remove as many awards below as you like.

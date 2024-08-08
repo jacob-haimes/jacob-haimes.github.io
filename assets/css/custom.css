@@ -1,0 +1,15 @@
+details > summary {
+    border: none;
+    cursor: pointer;
+    list-style: none;
+  }
+
+details > summary {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 18px;
+    margin-top: 18px;
+    text-align: justify;
+    cursor: pointer;
+    list-style: none;
+}
