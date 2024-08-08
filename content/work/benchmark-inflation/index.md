@@ -4,11 +4,12 @@ date: 2024-07-24
 lastmod: 2024-08-08
 featured: true
 reading_time: false
+toc: true
 
 doi: ''
 
 authors:
-  - jacobhaimes
+  - admin
   - Cenny Wenner
   - Kunvar Thaman
   - Vassil Tashev
@@ -47,16 +48,15 @@ publication_short: In *DMLR @ ICML '24* & *CONDA @ ACL '24*
 
 abstract: Public benchmarks are compromised, as the training data for many Large Language Models (LLMs) is contaminated with test data, suggesting a <strong>performance gap</strong> between benchmark scores and actual capabilities. Ideally, a private holdout set could be used to accurately verify scores. Unfortunately, such datasets do not exist for most benchmarks, and post-hoc construction of sufficiently similar datasets is non-trivial. To address these issues, we introduce a systematic methodology for (i) retrospectively constructing a holdout dataset for a target dataset, (ii) demonstrating the <strong>sufficient indistinguishability</strong> of this <strong>retro-holdout</strong> dataset, and (iii) comparing LLMs on the two datasets to quantify the performance gap due to the dataset's public availability. Applying these methods to TruthfulQA, we construct and release Retro-TruthfulQA, on which we evaluate twenty LLMs and find that some have inflated scores by more than 10 percentage points. Our results demonstrate that public benchmark scores do not accurately assess model properties, and underscore the importance of improved data and evaluation practices in the field.
 
-
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://pythonic-media.gitlab.io/pythonic-media-website/content/benchmark-inflation/benchmark-inflation_extended-abstract_dmlr_v1.0.pdf'
+url_pdf: uploads/benchmark-inflation_extended-abstract_dmlr_v1.0.pdf
 url_code: ''
 url_dataset: ''
-url_poster: 'https://pythonic-media.gitlab.io/pythonic-media-website/content/benchmark-inflation/benchmark-inflation_poster_v4.2.pdf'
+url_poster: uploads/benchmark-inflation_poster_v4.2.pdf
 url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/1rYkAj8mrAYmPRS_6NzP44IbII7uHUeGhug-RtrZECW4/edit?usp=sharing'
 url_source: ''
@@ -135,7 +135,7 @@ Please send all inquiries to <code>jacob.d.haimes@gmail.com</code> and <code>cwe
 ## Citation
 
 <!-- <div class="snippet-clipboard-content notranslate position-relative overflow-auto" style="font-size:80%"><pre class="notranslate"> -->
-```
+```text
 @manuscript{haimes2024benchmark,
   author     = {Haimes, Jacob and Wenner, Cenny and
                 Thaman, Kunvar and Tashev, Vassil and

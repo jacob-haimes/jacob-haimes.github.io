@@ -34,8 +34,8 @@ publication_short: In *RoboSoft '22*
 
 abstract: "Many soft robotics researchers use numerical simulation; all of them wish their simulations would run faster. In this paper we highlight an attractive option for simulating pneumatic soft actuator designs: zero-thickness shell finite elements. These offer a favorable balance between predictive accuracy and computational cost relative to standard approaches. We find that shell finite elements offer a 7x reduction in analysis time while accurately predicting the behavior of a wide variety of soft actuators. The benefits conferred by shell finite element analysis are especially valuable in contexts where simulation speed is as important as absolute accuracy, such as automated design, optimization, and real-time control."
 
-url_pdf: 'https://jacob-haimes.github.io/PDFs/Smith-Hainsworth-Haimes-MacCurdy_Automated-Synthesis_ROBOSOFT.pdf'
-url_code: '/work/cppn2sim'
+url_pdf: uploads/Smith-Hainsworth-Haimes-MacCurdy_Automated-Synthesis_ROBOSOFT.pdf
+url_code: work/cppn2sim
 url_dataset: ''
 url_poster: ''
 url_project: ''

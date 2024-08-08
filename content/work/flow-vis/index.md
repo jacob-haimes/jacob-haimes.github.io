@@ -24,7 +24,7 @@ One of the courses that I took while obtaining my Masters Degree was called Flow
 ![Propelled Paint image](https://jacob-haimes.github.io/assets/images/Propelled-Paint.png)
 ![Bad Water Rising image](https://jacob-haimes.github.io/assets/images/Bad-Water-Rising.png) -->
 
-Here I have included the three primary reports that I created for this course.
+The three primary reports that I authored during this course were:
 - <a href="https://jacob-haimes.github.io/PDFs/JacobHaimes_Viscosity-Dynamics_FlowVis.pdf" target="_blank" rel="noreferrer noopener">Viscosity Dynamics and Liquid Rope Coiling</a>
 - <a href="https://jacob-haimes.github.io/PDFs/JacobHaimes_Propelled-Paint_FlowVis.pdf" target="_blank" rel="noreferrer noopener">Propelled Paint</a>
 - <a href="https://jacob-haimes.github.io/PDFs/JacobHaimes_Bad-Water-Rising_FlowVis.pdf" target="_blank" rel="noreferrer noopener">Bad Water Rising</a>

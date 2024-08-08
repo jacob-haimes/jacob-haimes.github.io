@@ -36,14 +36,7 @@ publication_short: In *RoboSoft '22*
 
 abstract: Soft robotics embraces the design philosophy of function through morphology. Therefore defining the affordances of a soft robotic structure is equivalent to determining the composition and distribution of the materials that make up the robot. This design process has historically been dominated by human intuition and labor-intensive experimentation. However, the design space of multi-material continuum structures is infinite. Automation tools to accelerate soft robot design could enable new designs to be created on-demand, specific to a need, more rapidly and at lower cost than would be possible using human labor alone. In this work we formulate the soft robot design problem as a multi-objective optimization task. We demonstrate a design automation system for bending soft actuators which integrates multi-objective heuristic search with a powerful generative encoding that converts high level design goals, compliance and forcefulness in our case, into mechanical designs automatically. These designs can be directly fabricated using a 3-D printer. We compare numerous simulated results from our optimization and a physical instance fabricated via 3-D printing with a broad survey of contemporary results from the soft robotics literature.
 
-url_pdf: 'https://jacob-haimes.github.io/PDFs/Smith-Hainsworth-Haimes-MacCurdy_Automated-Synthesis_ROBOSOFT.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: uploads/Smith-Hainsworth-Haimes-MacCurdy_Automated-Synthesis_ROBOSOFT.pdf
 
 projects: []
 slides: ""

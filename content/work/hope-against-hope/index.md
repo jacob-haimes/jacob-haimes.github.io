@@ -24,14 +24,7 @@ publication_types: ['manuscript']
 
 abstract: Previous work in both the optimization and biological modeling fields have produced evolution inspired algorithms and highly accurate species specific models of animal behavior, respectively. An intuitive extension to these concepts is the application of those aforementioned algorithms upon the behavioral model frameworks. By clearly articulating our thought process throughout this endeavor we attempt to illuminate foundational concepts in both fields, while also creating a blueprint for the application of optimization on biologically inspired agent based models.
 
-url_pdf: 'https://jacob-haimes.github.io/PDFs/JacobHaimes_HoPE-Against-HoPE.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: uploads/JacobHaimes_HoPE-Against-HoPE.pdf
 
 projects: []
 slides: ""
