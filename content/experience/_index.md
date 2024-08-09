@@ -24,12 +24,27 @@ sections:
     design:
       date_format: 'January 2006'
       is_education_first: false
+      spacing:
+        padding: [6rem, 0, 1rem, 0]
+        margin: [0, 0, 0, 0]
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Technical Competencies
       username: admin
     design:
       show_skill_percentage: false
+      spacing:
+        padding: [1rem, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+  - block: resume-skills_r2
+    content:
+      title: 
+      username: admin
+    design:
+      show_skill_percentage: false
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
   # - block: resume-awards
   #   content:
   #     title: Awards

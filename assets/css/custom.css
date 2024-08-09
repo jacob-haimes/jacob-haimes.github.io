@@ -1,8 +1,8 @@
-details > summary {
+/* details > summary {
     border: none;
     cursor: pointer;
     list-style: none;
-  }
+  } */
 
 details > summary {
     margin-left: 25px;
