@@ -20,7 +20,7 @@ image:
   filename: Alan-Warburton_Plant_1280x720.jpg
 ---
 <figure>
-    <img src="https://jacob-haimes.github.io/assets/images/Alan-Warburton_Plant_1280x720.jpg"
+    <img src="Alan-Warburton_Plant_1280x720.jpg"
          alt="Plant, Alan Warburton">
     <figcaption style="font-size:small">Image by <a href="https://alanwarburton.co.uk/" target="_blank" rel="noreferrer noopener">Alan Warburton</a> / © BBC / <a href="https://www.betterimagesofai.org" target="_blank" rel="noreferrer noopener">Better Images of AI</a> / Plant / <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer noopener">Licenced by CC-BY 4.0</a></figcaption>
 </figure>
@@ -65,7 +65,7 @@ To many, this may come as a shock, because the idea of open source AI is not onl
 ### What is Open Source AI?
 
 <figure>
-    <img src="https://jacob-haimes.github.io/assets/images/wrong-hole.jpg"
+    <img src="wrong-hole.jpg"
          alt="Wrong Hole, xkalibolg">
     <figcaption style="font-size:small">Meme by xkalibolg / <a href="https://www.viz.com/junji-ito">Junji Ito</a>, <a href="https://junjiitomanga.fandom.com/wiki/The_Enigma_of_Amigara_Fault">“The Enigma of Amigara Fault”</a></figcaption>
 </figure>
@@ -160,7 +160,7 @@ Longer answer: even though we shouldn’t be calling these models Open Source, t
 **Closed Source** models – For completeness, we will also explicitly define Closed Source models. These include models referred to as “black box” or “API” access; while people can use the models, the only individuals who can run the model are its owners. Queries can be screened and monitored. Sending queries through the API typically costs money.
 
 <figure>
-    <img src="https://jacob-haimes.github.io/assets/images/open-diagram_3_small.png"
+    <img src="open-diagram_3_small.png"
          alt="AI Openness Diagram, Jacob Haimes">
     <figcaption style="font-size:small">Original diagram by <a href="https://jacob-haimes.github.io">Jacob Haimes</a> / © Pythonic Media / AI Openness Diagram / CC-BY-SA 4.0 / created using <a href="https://tikz.dev">Tikz</a> and <a href="https://www.gimp.org">GIMP</a></figcaption>
 </figure>
