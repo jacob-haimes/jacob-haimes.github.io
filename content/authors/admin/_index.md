@@ -132,7 +132,7 @@ work:
       <ul style="margin: 0rem">
         <li style="margin-bottom:.75rem">Lead grant writing initiative for work applying the Odyssean Process to advanced machine learning systems</li>
         <li style="margin-bottom:.75rem">Produced document providing and contextualizing over 90 concrete but open-ended questions concerning development, deployment, governance, and use of "AI"</li>
-        <li>Wrote blogpost garnering over 4500 views on the idea of <i>Emergence</i> as a keyword in the machine learnign domain</li>
+        <li>Wrote blogpost garnering over 4500 views on the idea of <i>Emergence</i> as a keyword in the machine learning domain</li>
       </ul>
   - position: AI Safety Fundamentals Cohort Lead
     company_name: BlueDot Impact
