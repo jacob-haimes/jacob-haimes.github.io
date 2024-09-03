@@ -239,10 +239,10 @@ skills_r2:
         description: FEA, agent-based modeling, applications
         icon: 
       - name: Optimization and Automation
-        description: Linear programming, convex optimization
+        description: Linear programming, evolutionary algorithms, {convex, multi-objective} optimization
         icon: 
       - name: Robotics
-        description: Pneumatic actuation, additive manugacturing
+        description: Pneumatic actuation, additive manufacturing
         icon: 
   - name: Media
     items:
