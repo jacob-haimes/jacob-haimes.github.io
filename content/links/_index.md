@@ -56,7 +56,7 @@ sections:
       buttons:
         - text: Resume
           icon: academicons/cv
-          url: static/uploads/Jacob-Haimes_Resume_2025.02.03.pdf
+          url: uploads/Jacob-Haimes_Resume_2025.02.03.pdf
         - text: LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/jacob-haimes/
@@ -76,7 +76,7 @@ sections:
           icon: custom/signal-messenger
           url: https://signal.me/#eu/lmvrRbZqNYd9-gPitIJEnKRyGX_uk0NbRrhmv1ISViaAgb7Em1lCDJweM9_bChU7
         - text: Kairos.fm Website
-          icon: custom/kairosfm-logo-only_white_150x150.png
+          icon: custom/kairosfm.svg
           url: https://kairos.fm
     design:
       no_padding: true
