@@ -6,6 +6,13 @@ featured: true
 reading_time: false
 toc: true
 
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
+
 doi: ''
 
 authors:

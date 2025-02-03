@@ -23,7 +23,7 @@ image:
   preview_only: true
   filename: implicit-gaming_plot-min.jpeg
 
-publication_types: ['manuscript']
+publication_types: ['misc']
 
 abstract: This study introduces a methodology to detect potential implicit gaming in LLM benchmarks, where models may show inflated performance on public evaluation suites without genuine generalization. We create two retrospective evaluation sets intended to be sufficiently similar to the TruthfulQA dataset to have been its held-out samples. These sets are used to evaluate whether the gains from GPT-3 to GPT-4 models generalize. Our preliminary analysis suggests that GPT-4 may have avoided the pitfall of implicit gaming. While constrained by time, this project offers a promising approach to ensure AI advancements and safety evaluations represent genuine progress rather than dataset gaming.
 

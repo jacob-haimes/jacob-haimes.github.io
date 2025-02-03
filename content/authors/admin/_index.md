@@ -110,7 +110,7 @@ work:
   #   date_end: ''
   #   summary: |
   #     summary
-  - position: Media and Research Management Assistant
+  - position: Research Management and Media Assistant
     company_name: Apart Research
     company_url: 'https://www.apartresearch.com'
     company_logo: ''
@@ -253,7 +253,7 @@ skills_r2:
         description: DaVinci Resolve, OBS, Adobe Suite, Blender, YouTube Studio
         icon: 
       - name: Audio
-        description: Audacity, MuseScore
+        description: Audacity, Transistor.fm, MuseScore
         icon: 
   # - name: Miscellaneous
   #   items:
