@@ -156,7 +156,7 @@ work:
     date_end: ''
     summary: |
       <ul style="margin: 0rem">
-        <li style="margin-bottom:.75rem">Initiated and hosts multiple podcasts, [Into AI Safety](https://kairos.fm/.fm/intoaisafety/) and [muckrAIkers](https://kairos.fm/muckraikers/)</li>
+        <li style="margin-bottom:.75rem">Initiated and hosts multiple podcasts, <a href="https://kairos.fm/.fm/intoaisafety/" target="_blank" rel="noreferrer noopener">Into AI Safety</a> and <a href="https://kairos.fm/muckraikers/"target="_blank" rel="noreferrer noopener">muckrAIkers</a></li>
         <li style="margin-bottom:.75rem">Established Kairos.fm as a way to improve dissemination of accessible and high quality technical content – produced shows have output a total of 54 episodes</li>
         <li style="margin-bottom:.75rem"> Dr. Igor Krawczuk has called the podcast <i>"one of the better AI safety intro media I am aware of."</i></li>
         <li>Interviews include Dr. Peter S. Park and Esben Kran</li>
