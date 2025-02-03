@@ -25,8 +25,8 @@ organizations:
     url: https://www.apartresearch.com
   - name: Odyssean Institute
     url: https://www.odysseaninstitute.org
-  - name: Into AI Safety Podcast
-    url: https://into-ai-safety.github.io
+  - name: Kairos.fm
+    url: https://kairos.fm
 
 # user_groups:
 #   - buh
