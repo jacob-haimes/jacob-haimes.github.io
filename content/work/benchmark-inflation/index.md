@@ -2,7 +2,6 @@
 title: "Benchmark Inflation: Revealing LLM Performance Gaps Using Retro-Holdouts"
 date: 2024-07-24
 lastmod: 2024-08-08
-featured: true
 reading_time: false
 toc: true
 
