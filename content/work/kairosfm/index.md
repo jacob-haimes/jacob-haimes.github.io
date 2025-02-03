@@ -15,7 +15,7 @@ tags:
 image:
   caption: 'Kairos.fm Logo'
   preview_only: true
-  filename: log-rect.png
+  filename: logo-rect.png
 
 
 ---

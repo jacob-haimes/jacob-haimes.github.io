@@ -56,10 +56,16 @@ sections:
       buttons:
         - text: Resume
           icon: academicons/cv
-          url: uploads/Jacob-Haimes_Resume_2025.02.03.pdf
+          url: https://jacob-haimes.github.io/uploads/Jacob-Haimes_Resume_2025.02.03.pdf
+        - text: Kairos.fm
+          icon: custom/kairosfm
+          url: https://kairos.fm
         - text: LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/jacob-haimes/
+        - text: Bluesky
+          icon: custom/bluesky
+          url: https://bsky.app/profile/jacobhaimes.bsky.social
         - text: GitHub
           icon: brands/github
           url: https://github.com/jacob-haimes
@@ -75,9 +81,6 @@ sections:
         - text: Signal
           icon: custom/signal-messenger
           url: https://signal.me/#eu/lmvrRbZqNYd9-gPitIJEnKRyGX_uk0NbRrhmv1ISViaAgb7Em1lCDJweM9_bChU7
-        - text: Kairos.fm Website
-          icon: custom/kairosfm.svg
-          url: https://kairos.fm
     design:
       no_padding: true
       spacing:
