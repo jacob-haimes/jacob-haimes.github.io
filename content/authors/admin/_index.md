@@ -113,7 +113,7 @@ work:
   #   date_end: ''
   #   summary: |
   #     summary
-  - position: Research Management and Media Assistant
+  - position: Research Project Manager
     company_name: Apart Research
     company_url: 'https://www.apartresearch.com'
     company_logo: ''
@@ -121,11 +121,11 @@ work:
     date_end: ''
     summary: |
       <ul style="margin: 0rem">
-        <li style="margin-bottom:.75rem">Manage research projects for decentralized teams focusing on challenges in AI safety, security, governance, and ethics</li>
+        <li style="margin-bottom:.75rem">Manage research projects for decentralized teams focusing on challenges in AI safety, security, governance, and ethics with 6 unique workshop acceptances in 2024</li>
         <li style="margin-bottom:.75rem">Iterate and develop Lab Fellowship curriculum, processes, and tools</li>
         <li>Collaborate with top researchers to multiply the impact of their work through improved scientific communication</li>
       </ul>
-  - position: AI Safety Specialist
+  - position: AI Safety Lead
     company_name: Odyssean Institute
     company_url: 'https://www.odysseaninstitute.org'
     company_logo: ''
@@ -135,7 +135,7 @@ work:
       <ul style="margin: 0rem">
         <li style="margin-bottom:.75rem">Lead grant writing initiative for work applying the Odyssean Process to advanced machine learning systems</li>
         <li style="margin-bottom:.75rem">Produced document providing and contextualizing over 90 concrete but open-ended questions concerning development, deployment, governance, and use of "AI"</li>
-        <li>Wrote blogpost garnering over 4500 views on the idea of <i>Emergence</i> as a keyword in the machine learning domain</li>
+        <li>Wrote blogpost garnering over 6000 views on the idea of <i>Emergence</i> as a keyword in the machine learning domain</li>
       </ul>
   - position: AI Safety Fundamentals Cohort Lead
     company_name: BlueDot Impact
@@ -146,17 +146,18 @@ work:
     summary: |
       <ul style="margin: 0rem">
         <li style="margin-bottom:.75rem">Facilitate the curriculum on a weekly basis, enabling individuals from around the world to meaningfully engage with the implications of advanced AI systems</li>
-        <li>Has worked closely over 30 individuals to build foundational understanding of AI safety and advance their careers</li>
+        <li>Has worked closely over 45 individuals to build foundational understanding of AI safety and advance their careers</li>
       </ul>
-  - position: Founder and Host
-    company_name: Into AI Safety Podcast
-    company_url: ''
+  - position: Founder
+    company_name: Kairos.fm
+    company_url: 'https://kairos.fm/'
     company_logo: ''
     date_start: 2023-10-21
     date_end: ''
     summary: |
       <ul style="margin: 0rem">
-        <li style="margin-bottom:.75rem">Took initiative to start a podcast as a career aid for those interested in contributing to the field of AI safety</li>
+        <li style="margin-bottom:.75rem">Initiated and hosts multiple podcasts, [Into AI Safety](https://kairos.fm/.fm/intoaisafety/) and [muckrAIkers](https://kairos.fm/muckraikers/)</li>
+        <li style="margin-bottom:.75rem">Established Kairos.fm as a way to improve dissemination of accessible and high quality technical content – produced shows have output a total of 54 episodes</li>
         <li style="margin-bottom:.75rem"> Dr. Igor Krawczuk has called the podcast <i>"one of the better AI safety intro media I am aware of."</i></li>
         <li>Interviews include Dr. Peter S. Park and Esben Kran</li>
       </ul>
