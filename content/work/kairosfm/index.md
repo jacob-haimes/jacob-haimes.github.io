@@ -1,6 +1,6 @@
 ---
 title: Kairos.fm
-date: 2025-02-03
+date: 2024-04-04
 last_mod: 2025-02-03
 featured: true
 
@@ -15,10 +15,10 @@ tags:
 image:
   caption: 'Kairos.fm Logo'
   preview_only: true
-  filename: kairosfm-logo_ fullcolor-square.png
+  filename: log-rect.png
 
 
 ---
 I started Kairos.fm as a means of collecting overhead for technical creators dedicated to high quality, accessible communication. The network now has 3 podcasts, two of which I host!
       
-Check out <a href="https://kairos.fm" target="_blank" rel="noreferrer noopener">Kairos.fm</a>!
+Check out both of my podcasts on <a href="https://kairos.fm" target="_blank" rel="noreferrer noopener">Kairos.fm</a>!

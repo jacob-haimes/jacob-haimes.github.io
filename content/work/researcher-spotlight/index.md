@@ -7,7 +7,7 @@ featured: true
 summary: Video interview during which I was the guest; it was nice for a change of pace!
 
 categories:
-  - Scientific Communication
+  - Interview
 tags:
   - Machine Learning
   - AI Safety

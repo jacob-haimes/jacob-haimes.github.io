@@ -52,6 +52,9 @@ profiles:
   # - icon: academicons/semantic-scholar
   #   url: https://www.semanticscholar.org/author/Jacob-Haimes/2163781843
   #   label: Semantic Scholar
+  - icon: custom/bluesky
+    url: https://bsky.app/profile/jacobhaimes.bsky.social
+    label: Bluesky
   - icon: at-symbol
     url: 'mailto:jacob.d.haimes@gmail.com'
     label: E-mail me

@@ -54,9 +54,9 @@ sections:
   - block: link-list
     content: 
       buttons:
-        - text: Resume (needs update)
+        - text: Resume
           icon: academicons/cv
-          url: /Jacob-Haimes_Resume_2025.02.03.pdf
+          url: static/uploads/Jacob-Haimes_Resume_2025.02.03.pdf
         - text: LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/jacob-haimes/
