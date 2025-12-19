@@ -105,27 +105,27 @@ education:
         </div>
       </details>
 work:
-  # - position: Co-Founder
-  #   company_name: Pythonic Media
+  # - position: 
+  #   company_name: 
   #   company_url: ''
   #   company_logo: ''
-  #   date_start: 2023-03-22
+  #   date_start: 
   #   date_end: ''
   #   summary: |
   #     summary
-  - position: Research Project Manager
+  - position: Research Programs Lead
     company_name: Apart Research
     company_url: 'https://www.apartresearch.com'
     company_logo: ''
-    date_start: 2024-02-13
+    date_start: 2024-07-18
     date_end: ''
     summary: |
       <ul style="margin: 0rem">
-        <li style="margin-bottom:.75rem">Manage research projects for decentralized teams focusing on challenges in AI safety, security, governance, and ethics with 6 unique workshop acceptances in 2024</li>
-        <li style="margin-bottom:.75rem">Iterate and develop Lab Fellowship curriculum, processes, and tools</li>
+        <li style="margin-bottom:.75rem">Manage research projects for decentralized teams focusing on challenges in AI safety, security, governance, and ethics</li>
+        <li style="margin-bottom:.75rem">Lead development and iteration of lab programs curriculum, processes, and tools</li>
         <li>Collaborate with top researchers to multiply the impact of their work through improved scientific communication</li>
       </ul>
-  - position: AI Safety Lead
+  - position: AI Safety Specialist
     company_name: Odyssean Institute
     company_url: 'https://www.odysseaninstitute.org'
     company_logo: ''
@@ -157,9 +157,33 @@ work:
     summary: |
       <ul style="margin: 0rem">
         <li style="margin-bottom:.75rem">Initiated and hosts multiple podcasts, <a href="https://kairos.fm/.fm/intoaisafety/" target="_blank" rel="noreferrer noopener">Into AI Safety</a> and <a href="https://kairos.fm/muckraikers/"target="_blank" rel="noreferrer noopener">muckrAIkers</a></li>
-        <li style="margin-bottom:.75rem">Established Kairos.fm as a way to improve dissemination of accessible and high quality technical content – produced shows have output a total of 54 episodes</li>
-        <li style="margin-bottom:.75rem"> Dr. Igor Krawczuk has called the podcast <i>"one of the better AI safety intro media I am aware of."</i></li>
-        <li>Interviews include Dr. Peter S. Park and Esben Kran</li>
+        <li style="margin-bottom:.75rem">Established Kairos.fm as a way to improve dissemination of accessible and high quality technical content – produced shows have output a total of 69 episodes (as of January 2026)</li>
+        <li style="margin-bottom:.75rem">Dr. Igor Krawczuk has called the podcast <i>"one of the better AI safety intro media I am aware of."</i></li>
+        <li>Guests include Dr. Peter S. Park, Esben Kran, Alistair Lowe-Norris, Li-Lian Ang, Dr. Sean McGregor, and Dr. David Thorstad</li>
+      </ul>
+  - position: Research Project Manager
+    company_name: Apart Research
+    company_url: 'https://www.apartresearch.com'
+    company_logo: ''
+    date_start: 2024-09-02
+    date_end: 2025-07-17
+    summary: |
+      <ul style="margin: 0rem">
+        <li style="margin-bottom:.75rem">Manage research projects for decentralized teams focusing on challenges in AI safety, security, governance, and ethics with 6 unique workshop acceptances in 2024</li>
+        <li style="margin-bottom:.75rem">Collaboratively develop and iterate on lab curriculum, processes, and tools</li>
+        <li>Collaborate with top researchers to multiply the impact of their work through improved scientific communication</li>
+      </ul>
+  - position: Research Management Assistant
+    company_name: Apart Research
+    company_url: 'https://www.apartresearch.com'
+    company_logo: ''
+    date_start: 2024-02-13
+    date_end: 2024-09-01
+    summary: |
+      <ul style="margin: 0rem">
+        <li style="margin-bottom:.75rem">Manage research projects for decentralized teams focusing on challenges in AI safety, security, governance, and ethics</li>
+        <li style="margin-bottom:.75rem">Develop and maintain resources to aid researchers and promote best practices</li>
+        <li>Collaborate with top researchers to multiply the impact of their work through improved scientific communication</li>
       </ul>
   - position: Information Systems Co-lead
     company_name: Highlife Recovery
