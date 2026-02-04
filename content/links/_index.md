@@ -72,6 +72,9 @@ sections:
         - text: Google Scholar
           icon: brands/google-scholar
           url: https://scholar.google.com/citations?user=F2BtIR0AAAAJ&hl=en&oi=sra
+        - text: ORCiD
+          icon: academicons/orcid
+          url: https://orcid.org/0009-0009-5003-3218
         - text: Semantic Scholar
           icon: academicons/semantic-scholar
           url: https://www.semanticscholar.org/author/Jacob-Haimes/2163781843

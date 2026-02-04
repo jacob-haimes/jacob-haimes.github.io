@@ -52,6 +52,9 @@ profiles:
   # - icon: academicons/semantic-scholar
   #   url: https://www.semanticscholar.org/author/Jacob-Haimes/2163781843
   #   label: Semantic Scholar
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0009-5003-3218
+    label: ORCiD
   - icon: custom/bluesky
     url: https://bsky.app/profile/jacobhaimes.bsky.social
     label: Bluesky
@@ -334,5 +337,3 @@ awards:
 ---
 
 <!-- <div style="text-align: justify">Technological developments today are going to have massive repercussions on both the near and long-term future; everyone has a right to be part of the conversations surrounding them.</div> -->
-
-

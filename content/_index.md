@@ -34,7 +34,7 @@ sections:
     content: 
       # title:
       # subtitle:
-      text: <div>Jacob Haimes is aspiring towards a career in research and scientific communication regarding transformative technologies, with the intent of making cutting edge developments accessible to the general public. He received a BS in Mechanical Engineering and an MS in Computational Modeling from CU Boulder.</div>
+      text: <div>Jacob Haimes is a researcher and scientific communicator focusing on the safe and ethical research, development, deployment and use of "AI" technologies, with the intent of making cutting edge developments accessible to the general public. He received a BS in Mechanical Engineering and an MS in Computational Modeling from CU Boulder.</div>
       # <div class="mt-4 bg-primary-900 rounded-2xl" style="margin-left:5rem; margin-right:5rem;"><div class="pt-4 pb-4 px-6"><strong>Technological developments today are going to have massive repercussions on both the near and long-term future; everyone has a right to be part of the conversations surrounding them.</strong></div></div>
     design:
       spacing:
